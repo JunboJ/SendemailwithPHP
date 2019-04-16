@@ -2,6 +2,7 @@ This is not the only or best way to send email!
 
 1.you need to change the security setting in your gamil to turn on the access of less secure app
 
+skip step 2 if you are using Xampp
 2.download sendmail.zip and put all the file in a folder named 'sendmail' in the root folder of your wamp
 
 3.download stunnel and install it
