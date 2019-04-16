@@ -40,6 +40,6 @@ SMTP =
 
 smtp_port = 25
 
-sendmail_from = movielover.jar@gmail.com
+sendmail_from = //your email address
 
 sendmail_path = "C:\wamp64\sendmail\sendmail.exe -t -i"
